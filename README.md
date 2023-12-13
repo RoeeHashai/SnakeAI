@@ -34,7 +34,7 @@ Please note that the number of episodes mentioned above (0, 60, 140) is indicati
 You first need to create an Anaconda environment.
 After creating an environment
 ```bash
-git clone [https://github.com/your-username/snake-ai.git](https://github.com/RoeeHashai/SnakeAI.git)
+git clone https://github.com/RoeeHashai/SnakeAI.git
 pip install -r requirements.txt
 ```
 
