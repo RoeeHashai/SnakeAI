@@ -18,7 +18,7 @@ Snake AI learning process at different stages:
   ![ezgif com-video-to-gif-converted](https://github.com/RoeeHashai/SnakeAI/assets/114341594/2b475512-956a-48e4-a46a-295b6b8e22c2)
 
 
-2. **Midway through Learning (after 60 episodes):**
+2. **Midway through Learning (after 80 episodes):**
 
   ![ezgif com-video-to-gif-converted-2](https://github.com/RoeeHashai/SnakeAI/assets/114341594/3e9c2527-d0f5-49b1-874c-d94c1cd15ee7)
 
