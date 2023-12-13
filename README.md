@@ -24,7 +24,8 @@ Snake AI learning process at different stages:
 
 
 3. **End of Learning (after 140 episodes):**
-  
+
+  ![ezgif com-video-to-gif-converted-3](https://github.com/RoeeHashai/SnakeAI/assets/114341594/bb101b78-ed08-4951-b450-4c48c98a50fc)
 
 Please note that the number of episodes mentioned above (0, 60, 140) is indicative and may vary based on your specific program parameters and learning process.
 
