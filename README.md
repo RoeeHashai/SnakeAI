@@ -19,7 +19,9 @@ Snake AI learning process at different stages:
 
 
 2. **Midway through Learning (after 60 episodes):**
-  
+
+  ![ezgif com-video-to-gif-converted-2](https://github.com/RoeeHashai/SnakeAI/assets/114341594/3e9c2527-d0f5-49b1-874c-d94c1cd15ee7)
+
 
 3. **End of Learning (after 140 episodes):**
   
