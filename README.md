@@ -14,7 +14,9 @@ Snake AI Reinforcement Learning is a project that implements a Snake game with A
 Snake AI learning process at different stages:
 
 1. **Beginning of Learning (after 0 episodes):**
-  
+
+  ![ezgif com-video-to-gif-converted](https://github.com/RoeeHashai/SnakeAI/assets/114341594/2b475512-956a-48e4-a46a-295b6b8e22c2)
+
 
 2. **Midway through Learning (after 60 episodes):**
   
